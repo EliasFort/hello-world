@@ -1,3 +1,3 @@
 # hello-world
-# mi segundo repo para el curso :)
+mi segundo repo para el curso :)
 
